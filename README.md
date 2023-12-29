@@ -30,5 +30,7 @@ Script provenant de : https://github.com/rrrrrrri/fos-license-gen
 
 Utiliser votre compte admin et il va vous être demandé une licence
 A ce moment-là on va utiliser le script main.py
+```bash
 python3 main.py
+```
 Il va générer un fichier Licence.lic, il ne reste plus qu’à l’importer dans la section prévue et le pare-feu va redémarrer.
